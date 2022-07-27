@@ -1,3 +1,3 @@
-module github.com/COSI-Lab/Mirror/datarithms
+module github.com/COSI-Lab/datarithms
 
 go 1.18

@@ -3,7 +3,7 @@ package datarithms_test
 import (
 	"testing"
 
-	"github.com/COSI-Lab/Mirror/datarithms"
+	"github.com/COSI-Lab/datarithms"
 )
 
 // Test the queue
